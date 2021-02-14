@@ -5,7 +5,7 @@ Bot Kylé Râte#1100 tarafından geliştirilmiştir.
 
 kayıt-erkek.js kayıt-kadın.js ayarlar.js ve kyle.js dosyasındaki yerleri doldurunuz.
 
-Herhangi bir hata çıkarsa Kylé Léra#1100 ye ulaşabilirsiniz.
+Herhangi bir hata çıkarsa Kylé Râte#1100 ye ulaşabilirsiniz.
 
 Eklenmesini istediğiniz şeyler Kylé Râte#1100 ye ulaşabilirsiniz
 
