@@ -11,4 +11,7 @@ Eklenmesini istediğiniz şeyler Kylé Léra#1100 ye ulaşabilirsiniz
 
 20 Starda Moderasyon Botu Paylaşılcaktır 
 
+discord.gg/striga
+
+
 İYİ GÜNLER :))
