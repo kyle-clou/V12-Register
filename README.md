@@ -1,5 +1,5 @@
 # v12 basit düzeyde reg
-Bot Kylé Léra#1100 tarafından geliştirilmiştir.
+Bot Kylé Râte#1100 tarafından geliştirilmiştir.
 
 İntentleri açmayı unutmayınız!
 
@@ -7,7 +7,7 @@ kayıt-erkek.js kayıt-kadın.js ayarlar.js ve kyle.js dosyasındaki yerleri dol
 
 Herhangi bir hata çıkarsa Kylé Léra#1100 ye ulaşabilirsiniz.
 
-Eklenmesini istediğiniz şeyler Kylé Léra#1100 ye ulaşabilirsiniz
+Eklenmesini istediğiniz şeyler Kylé Râte#1100 ye ulaşabilirsiniz
 
 20 Starda Moderasyon Botu Paylaşılcaktır 
 
